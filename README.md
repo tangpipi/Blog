@@ -1,4 +1,4 @@
-# [tangpipi.github.io](tangpipi.github.io)
+# [tangpipi.github.io](https://www.tangrr.top/)
 
 ![](https://img.shields.io/github/license/tangpipi/tangpipi.github.io)
 ![](https://img.shields.io/github/languages/code-size/tangpipi/tangpipi.github.io)
